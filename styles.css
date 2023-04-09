@@ -25,10 +25,10 @@ input{
     border-radius: 2px;
     color: #C5CED6;
 
-
 }
 button{
     font-family: 'Segoe UI';
+    font-weight: 500;
     padding: 10px;
     color: #ffff;
     background-color: #6558F5;
